@@ -168,7 +168,7 @@ firebase init
 firebase deploy --only hosting
 ```
 ### Hosted URL
-https://eclothing-5f52e.web.app
+https://ecommerce-dded7.web.app
 ## Acknowledgements
 
  - **Products Dataset** is collected from **kaggle** Dataset(https://www.kaggle.com/datasets/nirokey/myntra-fashion-products)
